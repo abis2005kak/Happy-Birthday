@@ -49,13 +49,13 @@ animation: animate 25s steps(1000, end) infinite;
 .single-img{
 position: absolute;
 width: 250px;
-height: 150px;
+height: 720px;
 top: 10px;
 left: 10px;
 }
 .single-img img{
 width: 250px;
-height:150px;
+height:720px;
 border: 5px solid #fff;
 }
 .single-img.img-one{
